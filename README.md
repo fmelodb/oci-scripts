@@ -5,3 +5,6 @@
 
 ## getADB.sh
 - List the available Autonomous Databases using OCI REST API
+
+## Update NoSQL Table Row TTL
+- UpdateRowTTL.py
