@@ -1,3 +1,7 @@
 # oci-scripts
-Script to list autonomous databases using REST API.
-Provide signing credentials before running (replace 'change' strings with your own data)
+
+## DeleteStandaloneDatabaseBackup.py
+- Delete a standalone cloud database backup using OCI Python SDK
+
+## getADB.sh
+- List the available Autonomous Databases using OCI REST API
