@@ -1,10 +1,13 @@
 # oci-scripts
 
-## DeleteStandaloneDatabaseBackup.py
+## ADBS-IAM
+- Create database user externally authenticated by OCI IAM
+
+## SDK_Delete-Standalone-DatabaseBackup.py
 - Delete a standalone cloud database backup using OCI Python SDK
 
-## getADB.sh
+## REST_Get-ADBs
 - List the available Autonomous Databases using OCI REST API
 
-## Update NoSQL Table Row TTL
-- UpdateRowTTL.py
+## NoSQL-tables
+- Update NoSQL Table Row TTL
